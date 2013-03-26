@@ -1,4 +1,4 @@
 Test.3.26
 =========
 
-Test
+Initial Test of Commit
